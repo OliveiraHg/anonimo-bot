@@ -1,6 +1,6 @@
 {
-	"pr": ".",
-	"donoofc": "NUMERO-DONO",
+	"pr": "!",
+	"donoofc": "16042653040",
 	"dono2": "dono-2",
 	"dono3": ".",
 	"dono4": ".",
